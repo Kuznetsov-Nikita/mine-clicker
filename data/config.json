@@ -1,0 +1,41 @@
+{
+	"diamonds count": 0,
+	
+	"diamonds grow per click": 1,
+	
+	"diamonds grow auto": 0,	
+	
+	"upgrade info": [
+		{
+			"cost": 1000,
+			"diamonds grow": 4
+		},
+		
+		{
+			"cost": 10000,
+			"diamonds grow": 10
+		},
+		
+		{
+			"cost": 100000,
+			"diamonds grow": 25
+		},
+		
+		{
+			"cost": 1000000,
+			"diamonds grow": 100
+		},
+		
+		{
+			"cost": 10000000,
+			"diamonds grow": 500
+		}
+	],
+	
+	"buy steve info": [
+		{
+			"cost": 10000,
+			"diamonds grow": 5
+		}
+	]
+}
